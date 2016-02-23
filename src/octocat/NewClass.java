@@ -9,17 +9,8 @@ package octocat;
  *
  * @author FSEVERI\skendaj2701
  */
-public class Octocat {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        
-        System.out.println("porco dio");
-        
-        
-    }
+public class NewClass {
     
+    
+   
 }
